@@ -7,7 +7,8 @@ This is not a stable relase use at your own risk.
 
 init: 
 
-test = True for testmet
+test = True for testnet
+
 test = False for mainnet 
 
 post-order: allows for limit buy/sell
